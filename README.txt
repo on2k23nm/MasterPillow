@@ -1,1 +1,1 @@
-* This is the youtube video used to create the notebooks in this repo - https://www.youtube.com/watch?v=5QR-dG68eNE, this video is great, it can be followed along with the notebooks.
+* This is the youtube video used to create the notebooks in this repo - https://www.youtube.com/watch?v=5QR-dG68eNE, this video is great, I strongly recommend that this video be followed along with the notebooks. I will keep on improving and adding content to this repository as I learn more and more about this amazing library for Image Processing.
